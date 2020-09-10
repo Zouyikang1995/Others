@@ -20,6 +20,8 @@
 * 22日（[軽井沢](https://www.google.co.jp/maps/place/%E9%95%B7%E9%87%8E%E7%9C%8C%E5%8C%97%E4%BD%90%E4%B9%85%E9%83%A1%E8%BB%BD%E4%BA%95%E6%B2%A2%E7%94%BA/@36.3515073,138.5122571,12z/data=!3m1!4b1!4m5!3m4!1s0x601dd23c3fc1a393:0x99118f4883da71f9!8m2!3d36.3483927!4d138.5970297?hl=ja)→东京）  
 从民宿出发，经过松本去軽井沢，上午游玩[白糸の滝](https://www.google.co.jp/maps/place/%E7%99%BD%E7%B3%B8%E3%81%AE%E6%BB%9D/@36.3715527,138.5583993,12.75z/data=!4m13!1m7!3m6!1s0x601dd23c3fc1a393:0x99118f4883da71f9!2z6ZW36YeO55yM5YyX5L2Q5LmF6YOh6Lu95LqV5rKi55S6!3b1!8m2!3d36.3483927!4d138.5970297!3m4!1s0x0:0xbddaade888287ab2!8m2!3d36.4103002!4d138.5925078?hl=ja)及周围景点。軽井沢附近吃过午饭后回立川。傍晚在立川解散。
 
+![Travel in Nagano](sources/nagano_schedule.png)
+
 ## 交通安排
 * 19日   
 东京集合的人，8点取车前各自乘坐交通工具到立川。集合后集体乘车出发。  
@@ -43,7 +45,7 @@
 > 出行人员`默认同意`此规程。如有个人情况，请提前告知并商量。
 1. 约定时间内集合，随大部队行动，不擅自脱离队伍。
 2. 车子容量有限，尽量利用小型行李箱或背包装满（提倡[行李箱22寸以下](https://zhidao.baidu.com/question/814719598504579012)规格）。
-3. 上高地及民宿在山上，建议准备好保暖的衣物，注意防寒。帐篷统一准备，个人所需的睡袋各自准备或现场租赁。
+3. 上高地及民宿在山上，建议准备好保暖的衣物，关注[当地气温](https://www.kamikochi.or.jp/learn/season)，注意防寒。帐篷统一准备，个人所需的睡袋各自准备或现场租赁。
 4. 上高地及民宿为野外地区，各自注意安全。提倡携带野外用品：药物（防虫剂之类），手电筒之类。
 5. 上高地野营分两个帐篷，女生三人一个，男生两个一个。民宿为一个大的房间，五人在同一个房间。注意不要给周围人增添麻烦，同时互相体谅。
 6. 公共费用（交通费，酒店费等）共同分担，私人花销（饮食费等）个人承担。
@@ -76,7 +78,7 @@
 [美ヶ原高原](https://www.google.co.jp/maps/place/%E7%BE%8E%E3%83%B6%E5%8E%9F%E9%AB%98%E5%8E%9F/@36.2152506,138.1282962,13.75z/data=!4m15!1m9!2m8!1z6Kaz5YWJ5Zyw!3m6!1z6Kaz5YWJ5Zyw!2z44CSMzkwLTAyMjIg6ZW36YeO55yM5p2-5pys5biC5aSn5a2X5YWl5bGx6L6677yY77yZ77yW77yRIOajruOBruWwj-OBleOBquODquOCvuODvOODiOadkSDmoZzmuIXmsLTjgrPjg4bjg7zjgrg!3s0x601da81b266f68b7:0x47bfe888d3a1c064!4m2!1d138.0872016!2d36.2158845!3m4!1s0x0:0x5d81271d1bed201!8m2!3d36.2225861!4d138.1205142?hl=ja)
 [信州塩尻農業公園 チロルの森](http://www.tirol.gr.jp/)
 ### 上高地
-[上高地游玩攻略](https://chubu.letsgojp.com/archives/412709/)
+[上高地游玩攻略](https://chubu.letsgojp.com/archives/412709/)   
 [上高地キャプ](https://www.kamikochi.or.jp/enjoy/campsites)   
 [得沢キャプ](https://www.tokusawaen.com/campsite.html)   
 [上高地附近](http://www.azumino-koen.jp/horigane_hotaka/)
