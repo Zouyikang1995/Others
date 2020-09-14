@@ -12,11 +12,11 @@ gantt
     入住酒店           : active, fday6, after fday5, 40m
 
     section Day 20
-    集合早饭           : active, sday1, 07:50, 40m
+    集合              : active, sday1, 07:30, 30m
     出发上高地         : crit, active, sday2, after sday1, 60m
     搭帐篷             : active, sday3, after sday2, 70m
     爬山游玩（午餐）    : active, sday4, after sday3, 7h
-    回帐篷         : active, sday5, after sday4, 1h
+    回帐篷         : active, sday5, after sday4, 80m
     
     section Day 21
     集合早餐           : active, tday1, 07:50, 40m
