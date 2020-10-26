@@ -51,17 +51,18 @@
 
 ## 参考
 ### 立川  
-出発日時：30日 9:00
-返却日時：2日 12:00
-営業所：[立川北口](https://sasp.mapion.co.jp/b/nrs/attr?t=attr_con&poi_code=512712)
-返却営業所：立川北口(042-548-9190)     
+出発日時：30日 9:00        
+返却日時：2日 12:00             
+営業所：[立川北口](https://sasp.mapion.co.jp/b/nrs/attr?t=attr_con&poi_code=512712)            
+返却営業所：立川北口(042-548-9190)      
 ### 富士河口湖
 [富士急中文网页](https://www.fujiq.jp/zh-CHS/)
 [朝霧高原もちゃ](http://www.mochiya.co.jp/)       
 [まかいの牧場](https://www.makaino.com/)        
 [白糸の滝](https://fujinomiya.gr.jp/guide/170/)        
 ### 熱海
-[温泉旅館](https://www.after-days.co.jp/plan/)　　  
+[温泉旅館](https://www.after-days.co.jp/plan/)　　   
+[初島](https://www.hatsushima.jp/)            
 [熱海秘宝館](https://www.google.co.jp/maps/place/%E7%86%B1%E6%B5%B7%E7%A7%98%E5%AE%9D%E9%A4%A8/@35.0856837,139.0727826,15z/data=!4m12!1m6!3m5!1s0x6019e28a96dbf723:0x262527163440e4c7!2z5aWl6JOu5Y-w5a-66I2Y!8m2!3d34.6984094!4d138.9194564!3m4!1s0x6019be59750a71b7:0x6dc30fa0ce68e826!8m2!3d35.086833!4d139.0802085?hl=ja)         
 [熱海MOA美术馆官网](http://www.moaart.or.jp/access/)         
 [城ヶ崎海岸](https://itospa.com/spot/detail_54002.html)           
